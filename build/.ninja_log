@@ -1,0 +1,10 @@
+# ninja log v5
+0	8	0	/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/cmake.verify_globs	a722fdff8a6a217
+9	234	1794001715194746428	CMakeFiles/unit_tests.dir/src/hash_utils.cpp.o	33398163a0fec55f
+8	234	1794001715194746428	CMakeFiles/hashcli.dir/src/hash_utils.cpp.o	e248fa41c1bc3153
+8	299	1794001715260749165	CMakeFiles/hashcli.dir/src/main.cpp.o	59f7497bd7cc038b
+8	305	1794001715265749372	CMakeFiles/unit_tests.dir/tests/test.cpp.o	11c472fa80d6993d
+9	328	1794001715288750326	CMakeFiles/unit_tests.dir/src/file_utils.cpp.o	e624e246b5766e81
+8	332	1794001715293750533	CMakeFiles/hashcli.dir/src/file_utils.cpp.o	4339e1e2587b81f7
+328	374	1794001715334594940	unit_tests	e306ef2caae3e847
+332	378	1794001715338543928	hashcli	359bcbd962ae7054

@@ -1,0 +1,22 @@
+Start testing: Nov 06 21:48 UTC
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/ubuntu/cpp-generator/workspace/hashcli/build/unit_tests"
+Directory: /home/ubuntu/cpp-generator/workspace/hashcli/build
+"AllTests" start time: Nov 06 21:48 UTC
+Output:
+----------------------------------------------------------
+CRC32 test failed! Got: 4294967295, expected: 0x3610A686
+FNV-1a test failed! Got: 11831194018420276491, expected: 0x53D972C9
+MD5 test failed!
+Determinism tests passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Nov 06 21:48 UTC
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 21:48 UTC

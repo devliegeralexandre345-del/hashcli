@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/hashcli.dir
+/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/hashcli/build/CMakeFiles/rebuild_cache.dir
